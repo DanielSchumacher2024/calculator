@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+eslint.confog.js
+.gitignore
 
 # Editor directories and files
 .vscode/*
